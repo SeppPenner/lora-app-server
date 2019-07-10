@@ -5,4 +5,8 @@ ignore: {}
 patch:
   SNYK-JS-LODASH-450202:
     - react-leaflet > lodash:
-        patched: '2019-07-04T00:26:40.807Z'
+        patched: '2019-07-03T21:39:01.583Z'
+    - snyk > snyk-mvn-plugin > lodash:
+        patched: '2019-07-10T07:35:59.228Z'
+    - snyk > snyk-php-plugin > @snyk/composer-lockfile-parser > lodash:
+        patched: '2019-07-10T07:35:59.228Z'
