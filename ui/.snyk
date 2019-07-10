@@ -5,4 +5,4 @@ ignore: {}
 patch:
   SNYK-JS-LODASH-450202:
     - react-leaflet > lodash:
-        patched: '2019-07-03T21:39:01.583Z'
+        patched: '2019-07-04T00:26:40.807Z'
